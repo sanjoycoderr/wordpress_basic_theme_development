@@ -1,0 +1,29 @@
+/*Theme Nmae:custom theme
+Theme Uri:https://wordpress
+Author:sanjoy giri
+Author Uri:https://wordpress
+Version: 1.0
+Description:this is my wordpress website
+*/
+
+.comment-body .avatar{
+	height: 30px;
+	width: 30px;
+}
+.more a:hover{
+ color:yellow ;
+}
+.tagcloud a {
+padding: 10px;
+background:
+#ED145B;
+margin: 0px 5px 5px 0px;
+float: left;
+}
+.tagcloud a:hover {
+color: #ffffff;
+}
+.custom-logo{
+	height: 100px;
+	width: 150px;
+}
